@@ -11,14 +11,14 @@
 第七章 train_seq2seq.py peeky_seq2seq有问题
 
 ## 目录
-[第1章-神经网络的复习](ch01/第1章-神经网络的复习.ipynb)
-[第2章-自然语言和单词的分布表示](ch02/第2章-自然语言和单词的分布式表示.ipynb)
-[第3章-word2vec](ch03/第3章-wordvec.ipynb)
-[第4章-word2vec的高速化](ch04/第4章-word2vec的高速化.ipynb)
-[第5章-RNN](ch05/第5章-RNN.ipynb)
-[第6章-Gated RNN](ch06/第6章-GatedRNN.ipynb)
-[第7章-基于RNN生成文本](ch07/第7章-基于RNN生成文本.ipynb)
-[第8章-Attention](ch08/第8章-Attention.ipynb)
+# [第1章-神经网络的复习](ch01/第1章-神经网络的复习.ipynb)
+# [第2章-自然语言和单词的分布表示](ch02/第2章-自然语言和单词的分布式表示.ipynb)
+# [第3章-word2vec](ch03/第3章-wordvec.ipynb)
+# [第4章-word2vec的高速化](ch04/第4章-word2vec的高速化.ipynb)
+# [第5章-RNN](ch05/第5章-RNN.ipynb)
+# [第6章-Gated RNN](ch06/第6章-GatedRNN.ipynb)
+# [第7章-基于RNN生成文本](ch07/第7章-基于RNN生成文本.ipynb)
+# [第8章-Attention](ch08/第8章-Attention.ipynb)
 
 
 ![深度学习进阶：自然语言处理](images/深度学习进阶：自然语言处理.jpg)
